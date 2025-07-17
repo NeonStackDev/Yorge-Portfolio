@@ -38,7 +38,7 @@ const navigationPaths = {
   home: "/",
   about: "about",
   work: "work",
-  contact: "contact",
+  
 };
 
 export const navLinks = [
@@ -50,10 +50,7 @@ export const navLinks = [
     id: navigationPaths.work,
     title: "Work",
   },
-  {
-    id: navigationPaths.contact,
-    title: "Contact",
-  },
+  
 ];
 
 const services = [
@@ -353,11 +350,11 @@ const projects = [
 ];
 
 const personalInfo = {
-  name: "Lao Cheng",
-  fullName: "Lao Cheng",
-  email: "smirnovj14@gmail.com",
-  mobile: "+7 (980) 416-4923",
-  telegram : 'https://t.me/NeonStackDev',
+  name: "Yorge Francia",
+  fullName: "Yorge Francia",
+  email: "",
+  mobile: "",
+  telegram : '',
   role: "Senior Software Developer",
   about: `I am an experienced software developer with extensive experience in TypeScript and JavaScript, and expertise in frameworks like React.js, Next.js, React-naitve, and Node.js.
 I  work closely with customers to develop efficient, scalable, and user-friendly solutions that solve real-world problems.
